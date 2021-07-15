@@ -1,0 +1,36 @@
+body {background:url(dosl.jpg);
+background-size: 100%;
+}
+h1{color: black;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;}
+
+ h4{text-align:center;
+    color:black;
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Oxygen', sans-serif;
+size: 30px;
+    
+    
+ }
+ h2{text-align: center;
+    color:black;
+    font-family: 'Fira Sans', sans-serif;
+}
+ h3{text-align: center; 
+color: black;
+}
+#img-center { display: block;
+    margin-left:auto;
+    margin-right: auto;
+    height: 466px;;
+    width: 700px;
+}
+#img-center1{display: block;
+    margin-left:auto;
+    margin-right: auto;
+    height: 418px;
+    width: 953px;
+
+
+}
